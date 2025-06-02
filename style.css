@@ -1,0 +1,19 @@
+body {
+  padding-top: 56px; /* for navbar space */
+}
+
+.hero {
+  background: linear-gradient(135deg, #6c757d, #343a40);
+  color: white;
+}
+.bg-light-bg{
+    background-color: #f2f7fd;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+footer p {
+  margin: 0;
+}
